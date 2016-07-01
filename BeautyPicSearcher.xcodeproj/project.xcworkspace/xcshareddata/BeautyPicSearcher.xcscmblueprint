@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FCB0F57170FAF05FBADDE2B21A8432B76EA1C843",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "88882EAE0350D39BDE1FAAD76CD7D66D37718A05" : 0,
+    "FCB0F57170FAF05FBADDE2B21A8432B76EA1C843" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "96476B7F-433A-4054-8A1B-1413FAD24C10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "88882EAE0350D39BDE1FAAD76CD7D66D37718A05" : "",
+    "FCB0F57170FAF05FBADDE2B21A8432B76EA1C843" : "workspaceYSJ\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BeautyPicSearcher",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BeautyPicSearcher\/BeautyPicSearcher.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ysjxys\/DemoPlace.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "88882EAE0350D39BDE1FAAD76CD7D66D37718A05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ysjxys\/TestMediaPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FCB0F57170FAF05FBADDE2B21A8432B76EA1C843"
+    }
+  ]
+}
